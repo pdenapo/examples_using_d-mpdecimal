@@ -4,7 +4,7 @@
 	],
 	"copyright": "Copyright © 2021, Pablo De Napoli",
 	"dependencies": {
-		"d_mpdecimal": "*"
+		"d_mpdecimal": "~main"
 	},
 	"description": "examples of probability distributions using d-mpdecimal",
 	"license": "MIT",
